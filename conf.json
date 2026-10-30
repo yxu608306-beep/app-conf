@@ -1,10 +1,10 @@
 {
-  "title": "快捷入口",
+  "title": "SKY火锅",
   "entries": [
-    { "name": "入口 A", "type": "app", "url": "https://auto.fuguigo.com" },
-    { "name": "入口 B", "type": "ext", "url": "https://drive.uc.cn/s/e7879ec7480c4" },
-    { "name": "入口 C", "type": "ext", "url": "https://example.com/replace-c" },
-    { "name": "入口 D", "type": "ext", "url": "https://example.com/replace-d" }
+    { "name": "云端AI后台", "type": "app", "url": "https://auto.fuguigo.com" },
+    { "name": "网盘云端解析", "type": "ext", "url": "https://drive.uc.cn/s/e7879ec7480c4" },
+    { "name": "苹果端科技", "type": "ext", "url": "https://example.com/replace-c" },
+    { "name": "火锅科技", "type": "ext", "url": "https://example.com/replace-d" }
   ],
   "notice": "",
   "noticeMode": "once",
