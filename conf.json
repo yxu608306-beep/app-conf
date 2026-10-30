@@ -2,9 +2,9 @@
   "title": "SKY火锅",
   "entries": [
     { "name": "云端AI后台", "type": "app", "url": "https://auto.fuguigo.com" },
-    { "name": "网盘云端解析", "type": "ext", "url": "https://drive.uc.cn/s/e7879ec7480c4" },
-    { "name": "苹果端科技", "type": "ext", "url": "https://example.com/replace-c" },
-    { "name": "火锅科技", "type": "ext", "url": "https://example.com/replace-d" }
+    { "name": "网盘云端解析", "type": "ext", "url": "https://drive.uc.cn/s/791679cf96884" },
+    { "name": "苹果端科技", "type": "ext", "url": "https://drive.uc.cn/s/134bee32c4754" },
+    { "name": "火锅科技", "type": "ext", "url": "https://drive.uc.cn/s/71812dff9b584 " }
   ],
   "notice": "",
   "noticeMode": "once",
